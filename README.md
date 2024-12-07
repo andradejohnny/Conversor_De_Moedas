@@ -16,8 +16,6 @@ Este é um programa simples em Java que permite realizar conversões entre difer
 - **Java 17** ou superior
 - Biblioteca [Gson](https://github.com/google/gson) para manipulação de JSON.
 - API HTTP do Java para requisições REST.
-- Scanner para entrada de dados do usuário.
-
 ---
 
 ## ⚙️ **Como Executar**
